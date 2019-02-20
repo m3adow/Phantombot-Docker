@@ -100,4 +100,5 @@ then
   "${BOTLOGIN_PATH}"
 fi
 
+chmod +x /data/PhantomBot/launch-service.sh
 /data/PhantomBot/launch-service.sh
